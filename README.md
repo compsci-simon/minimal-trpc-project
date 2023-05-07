@@ -22,4 +22,4 @@ The goal of this project was to familiarize myself with the tRPC architecture by
 
 ---
 
-To start the server run `npx tsx watch server`, and then to have the client run use `npx wait-port 3000 && npx tsx watch client`
+To start the server run `npx tsx watch server`, and then to have the client run use `npx wait-port 3000 && npx tsx client`
