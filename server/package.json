@@ -2,6 +2,7 @@
 	"name": "@examples/minimal-server",
 	"version": "10.25.0",
 	"private": true,
+	"module": "es2020",
 	"dependencies": {
 		"@trpc/server": "^10.25.0",
 		"zod": "^3.21.4"
